@@ -6,4 +6,8 @@ public class Bank{
   void login(){
     //with OTP
   }
+  void implementedlogin(){
+    //with OTP
+    //implemented email and password
+  }
 }
