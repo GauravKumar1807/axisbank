@@ -10,4 +10,8 @@ public class Bank{
     //with OTP
     //implemented email and password
   }
+  void email(){
+    //with OTP
+    //implemented email and password
+  }
 }
